@@ -1,0 +1,829 @@
+2022-04-17 00:02:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 00:02:48 [wysh.selenium.base.SelectDriver] - [ main:13 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 00:29:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 00:29:15 [wysh.selenium.base.SelectDriver] - [ main:18 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 00:29:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4828 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 00:29:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4829 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 00:29:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4829 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 00:29:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4829 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 00:29:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4830 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 00:29:30 [wysh.selenium.util.TestngRetry] - [ main:14883 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 00:29:30 [wysh.selenium.util.TestngRetry] - [ main:14884 ] - [ INFO ] 重试第：1次！
+2022-04-17 00:29:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14888 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 00:29:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:15045 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 00:29:30 [wysh.selenium.base.SelectDriver] - [ main:15053 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 00:29:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18547 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 00:29:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18547 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 00:29:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18548 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 00:29:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18549 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 00:29:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18551 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 00:29:41 [wysh.selenium.util.TestngRetry] - [ main:25893 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 00:29:41 [wysh.selenium.util.TestngRetry] - [ main:25894 ] - [ INFO ] 重试第：2次！
+2022-04-17 00:29:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:25894 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 00:30:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 00:30:00 [wysh.selenium.base.SelectDriver] - [ main:13 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 00:30:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3907 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 00:30:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3907 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 00:30:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3908 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 00:30:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3908 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 00:30:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3909 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 00:30:14 [wysh.selenium.util.TestngRetry] - [ main:13981 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 00:30:14 [wysh.selenium.util.TestngRetry] - [ main:13981 ] - [ INFO ] 重试第：1次！
+2022-04-17 00:30:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:13984 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 00:30:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14126 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 00:30:14 [wysh.selenium.base.SelectDriver] - [ main:14131 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 00:30:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17516 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 00:30:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17516 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 00:30:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17516 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 00:30:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17516 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 00:30:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17517 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 00:30:18 [wysh.selenium.util.TestngRetry] - [ main:18031 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 00:30:18 [wysh.selenium.util.TestngRetry] - [ main:18032 ] - [ INFO ] 重试第：2次！
+2022-04-17 00:30:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18033 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:27:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:27:44 [wysh.selenium.base.SelectDriver] - [ main:15 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:27:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:8486 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 01:27:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:8486 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 01:27:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:8487 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 01:27:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:8488 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 01:27:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:8488 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 01:28:03 [wysh.selenium.util.TestngRetry] - [ main:18577 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:28:03 [wysh.selenium.util.TestngRetry] - [ main:18578 ] - [ INFO ] 重试第：1次！
+2022-04-17 01:28:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18584 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:28:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18676 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:28:03 [wysh.selenium.base.SelectDriver] - [ main:18682 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:28:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22006 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 01:28:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22006 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 01:28:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22007 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 01:28:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22007 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 01:28:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22008 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 01:28:16 [wysh.selenium.util.TestngRetry] - [ main:32073 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:28:16 [wysh.selenium.util.TestngRetry] - [ main:32074 ] - [ INFO ] 重试第：2次！
+2022-04-17 01:28:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32075 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:28:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32165 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:28:16 [wysh.selenium.base.SelectDriver] - [ main:32170 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:28:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:35547 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 01:28:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:35548 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 01:28:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:35550 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 01:28:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:35550 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 01:28:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:35554 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 01:28:30 [wysh.selenium.util.TestngRetry] - [ main:45605 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:28:30 [wysh.selenium.base.DriverBase] - [ main:45612 ] - [ INFO ] 开始截图
+2022-04-17 01:28:30 [wysh.selenium.base.DriverBase] - [ main:45807 ] - [ INFO ] 截图完成
+2022-04-17 01:28:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45808 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:28:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45899 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:28:30 [wysh.selenium.base.SelectDriver] - [ main:45903 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:28:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49213 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 01:28:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49214 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 01:28:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49215 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 01:28:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49215 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 01:28:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49216 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 01:28:43 [wysh.selenium.util.TestngRetry] - [ main:59283 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:28:43 [wysh.selenium.base.DriverBase] - [ main:59287 ] - [ INFO ] 开始截图
+2022-04-17 01:28:43 [wysh.selenium.base.DriverBase] - [ main:59478 ] - [ INFO ] 截图完成
+2022-04-17 01:28:43 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59478 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:28:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59589 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:28:44 [wysh.selenium.base.SelectDriver] - [ main:59593 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:28:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:62914 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 01:28:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:62916 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 01:28:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:62917 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 01:28:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:62918 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 01:28:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:62919 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 01:28:57 [wysh.selenium.util.TestngRetry] - [ main:72983 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:28:57 [wysh.selenium.base.DriverBase] - [ main:72986 ] - [ INFO ] 开始截图
+2022-04-17 01:28:57 [wysh.selenium.base.DriverBase] - [ main:73128 ] - [ INFO ] 截图完成
+2022-04-17 01:28:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:73128 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:28:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:73198 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:28:57 [wysh.selenium.base.SelectDriver] - [ main:73202 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:29:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76523 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 01:29:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76523 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 01:29:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76523 ] - [ INFO ] 登录密码是  :
+2022-04-17 01:29:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76523 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 01:29:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76524 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 01:29:11 [wysh.selenium.util.TestngRetry] - [ main:86576 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:29:11 [wysh.selenium.base.DriverBase] - [ main:86578 ] - [ INFO ] 开始截图
+2022-04-17 01:29:11 [wysh.selenium.base.DriverBase] - [ main:86754 ] - [ INFO ] 截图完成
+2022-04-17 01:29:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86754 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:29:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86864 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:29:11 [wysh.selenium.base.SelectDriver] - [ main:86868 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:29:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90272 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 01:29:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90272 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 01:29:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90273 ] - [ INFO ] 登录密码是  :
+2022-04-17 01:29:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90273 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 01:29:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90273 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 01:29:24 [wysh.selenium.util.TestngRetry] - [ main:100297 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:29:24 [wysh.selenium.base.DriverBase] - [ main:100299 ] - [ INFO ] 开始截图
+2022-04-17 01:29:24 [wysh.selenium.base.DriverBase] - [ main:100455 ] - [ INFO ] 截图完成
+2022-04-17 01:29:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:100455 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:29:25 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:100521 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:29:25 [wysh.selenium.base.SelectDriver] - [ main:100525 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:29:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:103896 ] - [ INFO ] 读取的 Excel数据信息为：{password=Dd1234, bugdetail=这是user4提交的bug详情_2019031402_wysh, bugtitle=这是由user4提交的bug_2019031402_wysh, username=user4}
+2022-04-17 01:29:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:103896 ] - [ INFO ] 登录用户名是 :user4
+2022-04-17 01:29:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:103897 ] - [ INFO ] 登录密码是  :Dd1234
+2022-04-17 01:29:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:103897 ] - [ INFO ] Bug的标题是 :这是由user4提交的bug_2019031402_wysh
+2022-04-17 01:29:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:103898 ] - [ INFO ] Bug的详细信息是 :这是user4提交的bug详情_2019031402_wysh
+2022-04-17 01:29:37 [wysh.selenium.util.TestngRetry] - [ main:113411 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:29:37 [wysh.selenium.base.DriverBase] - [ main:113415 ] - [ INFO ] 开始截图
+2022-04-17 01:29:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:125441 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:52:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:52:28 [wysh.selenium.base.SelectDriver] - [ main:13 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:52:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4625 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 01:52:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4625 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 01:52:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4626 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 01:52:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4626 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 01:52:33 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4626 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 01:52:43 [wysh.selenium.util.TestngRetry] - [ main:14721 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:52:43 [wysh.selenium.util.TestngRetry] - [ main:14722 ] - [ INFO ] 重试第：1次！
+2022-04-17 01:52:43 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14728 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 01:52:43 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14805 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 01:52:43 [wysh.selenium.base.SelectDriver] - [ main:14811 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 01:52:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18103 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 01:52:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18103 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 01:52:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18103 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 01:52:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18104 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 01:52:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18106 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 01:52:54 [wysh.selenium.util.TestngRetry] - [ main:25734 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 01:52:54 [wysh.selenium.util.TestngRetry] - [ main:25734 ] - [ INFO ] 重试第：2次！
+2022-04-17 01:52:54 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:25735 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:20:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:20:34 [wysh.selenium.base.SelectDriver] - [ main:12 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:20:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4324 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:20:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4324 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:20:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4324 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:20:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4325 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:20:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4325 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:20:48 [wysh.selenium.util.TestngRetry] - [ main:14365 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:20:48 [wysh.selenium.util.TestngRetry] - [ main:14366 ] - [ INFO ] 重试第：1次！
+2022-04-17 02:20:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14370 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:20:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14465 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:20:48 [wysh.selenium.base.SelectDriver] - [ main:14474 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:20:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17901 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:20:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17901 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:20:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17902 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:20:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17902 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:20:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17905 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:21:02 [wysh.selenium.util.TestngRetry] - [ main:27945 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:21:02 [wysh.selenium.util.TestngRetry] - [ main:27945 ] - [ INFO ] 重试第：2次！
+2022-04-17 02:21:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27946 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:21:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:28027 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:21:02 [wysh.selenium.base.SelectDriver] - [ main:28032 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:21:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31440 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:21:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31441 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:21:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31441 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:21:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31441 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:21:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31442 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:21:17 [wysh.selenium.util.TestngRetry] - [ main:43478 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:21:17 [wysh.selenium.base.DriverBase] - [ main:43482 ] - [ INFO ] 开始截图
+2022-04-17 02:21:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55504 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:22:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:22:35 [wysh.selenium.base.SelectDriver] - [ main:12 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:22:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3983 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:22:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3983 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:22:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3983 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:22:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3984 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:22:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3984 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:22:49 [wysh.selenium.util.TestngRetry] - [ main:14015 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:22:49 [wysh.selenium.util.TestngRetry] - [ main:14016 ] - [ INFO ] 重试第：1次！
+2022-04-17 02:22:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14019 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:22:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14112 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:22:49 [wysh.selenium.base.SelectDriver] - [ main:14118 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:22:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17720 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:22:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17721 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:22:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17721 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:22:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17735 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:22:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17738 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:23:05 [wysh.selenium.util.TestngRetry] - [ main:29758 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:23:05 [wysh.selenium.util.TestngRetry] - [ main:29759 ] - [ INFO ] 重试第：2次！
+2022-04-17 02:23:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:29759 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:23:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:23:32 [wysh.selenium.base.SelectDriver] - [ main:12 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:23:36 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3987 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:23:36 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3990 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:23:36 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3991 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:23:36 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3992 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:23:36 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3993 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:23:46 [wysh.selenium.util.TestngRetry] - [ main:14079 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:23:46 [wysh.selenium.util.TestngRetry] - [ main:14081 ] - [ INFO ] 重试第：1次！
+2022-04-17 02:23:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14086 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:23:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14228 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:23:47 [wysh.selenium.base.SelectDriver] - [ main:14234 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:23:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17806 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:23:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17808 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:23:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17810 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:23:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17811 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:23:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17819 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:24:00 [wysh.selenium.util.TestngRetry] - [ main:27872 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:24:00 [wysh.selenium.util.TestngRetry] - [ main:27872 ] - [ INFO ] 重试第：2次！
+2022-04-17 02:24:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27873 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:24:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:28010 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:24:00 [wysh.selenium.base.SelectDriver] - [ main:28015 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:24:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31833 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:24:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31833 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:24:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31833 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:24:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31834 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:24:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31834 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:24:14 [wysh.selenium.util.TestngRetry] - [ main:41876 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:24:14 [wysh.selenium.base.DriverBase] - [ main:41880 ] - [ INFO ] 开始截图
+2022-04-17 02:24:14 [wysh.selenium.base.DriverBase] - [ main:42009 ] - [ INFO ] 截图完成
+2022-04-17 02:24:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:42010 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:24:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:42075 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:24:14 [wysh.selenium.base.SelectDriver] - [ main:42083 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:24:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45547 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 02:24:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45547 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 02:24:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45548 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 02:24:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45548 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 02:24:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45548 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 02:24:28 [wysh.selenium.util.TestngRetry] - [ main:55601 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:24:28 [wysh.selenium.base.DriverBase] - [ main:55604 ] - [ INFO ] 开始截图
+2022-04-17 02:24:28 [wysh.selenium.base.DriverBase] - [ main:55713 ] - [ INFO ] 截图完成
+2022-04-17 02:24:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55714 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:24:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55808 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:24:28 [wysh.selenium.base.SelectDriver] - [ main:55812 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:24:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59230 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 02:24:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59230 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 02:24:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59230 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 02:24:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59230 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 02:24:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59231 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 02:24:42 [wysh.selenium.util.TestngRetry] - [ main:69268 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:24:42 [wysh.selenium.base.DriverBase] - [ main:69271 ] - [ INFO ] 开始截图
+2022-04-17 02:24:42 [wysh.selenium.base.DriverBase] - [ main:69398 ] - [ INFO ] 截图完成
+2022-04-17 02:24:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:69398 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:24:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:69465 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:24:42 [wysh.selenium.base.SelectDriver] - [ main:69470 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:24:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:73550 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 02:24:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:73550 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 02:24:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:73551 ] - [ INFO ] 登录密码是  :
+2022-04-17 02:24:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:73551 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 02:24:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:73551 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 02:24:56 [wysh.selenium.util.TestngRetry] - [ main:83173 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:24:56 [wysh.selenium.base.DriverBase] - [ main:83175 ] - [ INFO ] 开始截图
+2022-04-17 02:24:56 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:83185 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:25:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:1 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:25:04 [wysh.selenium.base.SelectDriver] - [ main:13 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:25:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3854 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:25:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3855 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:25:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3857 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:25:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3858 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:25:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3859 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:25:18 [wysh.selenium.util.TestngRetry] - [ main:13944 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:25:18 [wysh.selenium.util.TestngRetry] - [ main:13945 ] - [ INFO ] 重试第：1次！
+2022-04-17 02:25:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:13950 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:25:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14042 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:25:18 [wysh.selenium.base.SelectDriver] - [ main:14048 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:25:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17467 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:25:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17469 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:25:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17470 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:25:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17471 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:25:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17475 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:25:31 [wysh.selenium.util.TestngRetry] - [ main:27526 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:25:31 [wysh.selenium.util.TestngRetry] - [ main:27526 ] - [ INFO ] 重试第：2次！
+2022-04-17 02:25:31 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27527 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:25:31 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27636 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:25:31 [wysh.selenium.base.SelectDriver] - [ main:27641 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:25:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31155 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:25:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31156 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:25:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31157 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:25:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31157 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:25:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31160 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:25:45 [wysh.selenium.util.TestngRetry] - [ main:41192 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:25:45 [wysh.selenium.base.DriverBase] - [ main:41201 ] - [ INFO ] 开始截图
+2022-04-17 02:25:45 [wysh.selenium.base.DriverBase] - [ main:41341 ] - [ INFO ] 截图完成
+2022-04-17 02:25:45 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41342 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:25:45 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41405 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:25:45 [wysh.selenium.base.SelectDriver] - [ main:41410 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:25:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:44864 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 02:25:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:44864 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 02:25:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:44865 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 02:25:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:44865 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 02:25:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:44866 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 02:25:59 [wysh.selenium.util.TestngRetry] - [ main:54911 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:25:59 [wysh.selenium.base.DriverBase] - [ main:54914 ] - [ INFO ] 开始截图
+2022-04-17 02:25:59 [wysh.selenium.base.DriverBase] - [ main:55037 ] - [ INFO ] 截图完成
+2022-04-17 02:25:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55037 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:25:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55134 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:25:59 [wysh.selenium.base.SelectDriver] - [ main:55139 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:26:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58535 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 02:26:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58535 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 02:26:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58535 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 02:26:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58536 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 02:26:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58537 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 02:26:12 [wysh.selenium.util.TestngRetry] - [ main:68585 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:26:12 [wysh.selenium.base.DriverBase] - [ main:68587 ] - [ INFO ] 开始截图
+2022-04-17 02:26:12 [wysh.selenium.base.DriverBase] - [ main:68711 ] - [ INFO ] 截图完成
+2022-04-17 02:26:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:68712 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:26:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:68775 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:26:13 [wysh.selenium.base.SelectDriver] - [ main:68780 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:26:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72229 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 02:26:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72234 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 02:26:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72235 ] - [ INFO ] 登录密码是  :
+2022-04-17 02:26:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72236 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 02:26:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72236 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 02:26:26 [wysh.selenium.util.TestngRetry] - [ main:82301 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:26:26 [wysh.selenium.base.DriverBase] - [ main:82303 ] - [ INFO ] 开始截图
+2022-04-17 02:26:26 [wysh.selenium.base.DriverBase] - [ main:82426 ] - [ INFO ] 截图完成
+2022-04-17 02:26:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82428 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:26:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82684 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:26:26 [wysh.selenium.base.SelectDriver] - [ main:82694 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:26:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86451 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 02:26:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86451 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 02:26:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86452 ] - [ INFO ] 登录密码是  :
+2022-04-17 02:26:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86452 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 02:26:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86452 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 02:26:40 [wysh.selenium.util.TestngRetry] - [ main:96569 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:26:40 [wysh.selenium.base.DriverBase] - [ main:96572 ] - [ INFO ] 开始截图
+2022-04-17 02:26:40 [wysh.selenium.base.DriverBase] - [ main:96698 ] - [ INFO ] 截图完成
+2022-04-17 02:26:40 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:96698 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:26:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:96775 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:26:41 [wysh.selenium.base.SelectDriver] - [ main:96778 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:26:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:100146 ] - [ INFO ] 读取的 Excel数据信息为：{password=Dd1234, bugdetail=这是user4提交的bug详情_2019031402_wysh, bugtitle=这是由user4提交的bug_2019031402_wysh, username=user4}
+2022-04-17 02:26:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:100146 ] - [ INFO ] 登录用户名是 :user4
+2022-04-17 02:26:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:100146 ] - [ INFO ] 登录密码是  :Dd1234
+2022-04-17 02:26:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:100147 ] - [ INFO ] Bug的标题是 :这是由user4提交的bug_2019031402_wysh
+2022-04-17 02:26:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:100147 ] - [ INFO ] Bug的详细信息是 :这是user4提交的bug详情_2019031402_wysh
+2022-04-17 02:26:54 [wysh.selenium.util.TestngRetry] - [ main:110191 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:26:54 [wysh.selenium.base.DriverBase] - [ main:110195 ] - [ INFO ] 开始截图
+2022-04-17 02:26:54 [wysh.selenium.base.DriverBase] - [ main:110324 ] - [ INFO ] 截图完成
+2022-04-17 02:26:54 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:110324 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:26:54 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:110417 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:26:54 [wysh.selenium.base.SelectDriver] - [ main:110420 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:26:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:113803 ] - [ INFO ] 读取的 Excel数据信息为：{password=Dd1234, bugdetail=这是user4提交的bug详情_2019031402_wysh, bugtitle=这是由user4提交的bug_2019031402_wysh, username=user4}
+2022-04-17 02:26:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:113803 ] - [ INFO ] 登录用户名是 :user4
+2022-04-17 02:26:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:113803 ] - [ INFO ] 登录密码是  :Dd1234
+2022-04-17 02:26:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:113804 ] - [ INFO ] Bug的标题是 :这是由user4提交的bug_2019031402_wysh
+2022-04-17 02:26:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:113805 ] - [ INFO ] Bug的详细信息是 :这是user4提交的bug详情_2019031402_wysh
+2022-04-17 02:27:08 [wysh.selenium.util.TestngRetry] - [ main:123828 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:27:08 [wysh.selenium.base.DriverBase] - [ main:123830 ] - [ INFO ] 开始截图
+2022-04-17 02:27:08 [wysh.selenium.base.DriverBase] - [ main:123936 ] - [ INFO ] 截图完成
+2022-04-17 02:27:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:123937 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:27:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:123995 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:27:08 [wysh.selenium.base.SelectDriver] - [ main:123998 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:27:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127455 ] - [ INFO ] 读取的 Excel数据信息为：{password=Ee1234, bugdetail=这是user5提交的bug详情_2019031402_wysh, bugtitle=, username=user5}
+2022-04-17 02:27:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127456 ] - [ INFO ] 登录用户名是 :user5
+2022-04-17 02:27:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127456 ] - [ INFO ] 登录密码是  :Ee1234
+2022-04-17 02:27:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127457 ] - [ INFO ] Bug的标题是 :
+2022-04-17 02:27:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127457 ] - [ INFO ] Bug的详细信息是 :这是user5提交的bug详情_2019031402_wysh
+2022-04-17 02:27:16 [wysh.selenium.util.TestngRetry] - [ main:132337 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:27:16 [wysh.selenium.base.DriverBase] - [ main:132340 ] - [ INFO ] 开始截图
+2022-04-17 02:27:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:144365 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:32:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:32:46 [wysh.selenium.base.SelectDriver] - [ main:13 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:32:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5518 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:32:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5519 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:32:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5520 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:32:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5521 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:32:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5523 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:33:02 [wysh.selenium.util.TestngRetry] - [ main:15586 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:33:02 [wysh.selenium.util.TestngRetry] - [ main:15588 ] - [ INFO ] 重试第：1次！
+2022-04-17 02:33:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:15593 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:33:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:15726 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:33:02 [wysh.selenium.base.SelectDriver] - [ main:15733 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:33:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:19179 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:33:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:19179 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:33:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:19179 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:33:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:19179 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:33:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:19180 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:33:16 [wysh.selenium.util.TestngRetry] - [ main:29240 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:33:16 [wysh.selenium.util.TestngRetry] - [ main:29241 ] - [ INFO ] 重试第：2次！
+2022-04-17 02:33:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:29242 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 02:33:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:29382 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 02:33:16 [wysh.selenium.base.SelectDriver] - [ main:29387 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 02:33:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32824 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 02:33:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32824 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 02:33:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32825 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 02:33:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32825 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 02:33:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32826 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 02:33:22 [wysh.selenium.util.TestngRetry] - [ main:35792 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 02:33:22 [wysh.selenium.base.DriverBase] - [ main:35795 ] - [ INFO ] 开始截图
+2022-04-17 02:33:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:35824 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:17:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:17:16 [wysh.selenium.base.SelectDriver] - [ main:12 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:17:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4742 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:17:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4743 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:17:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4743 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:17:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4744 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:17:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4745 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:17:30 [wysh.selenium.util.TestngRetry] - [ main:14825 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:17:30 [wysh.selenium.util.TestngRetry] - [ main:14827 ] - [ INFO ] 重试第：1次！
+2022-04-17 03:17:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14831 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:17:31 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14948 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:17:31 [wysh.selenium.base.SelectDriver] - [ main:14954 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:17:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18601 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:17:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18601 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:17:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18601 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:17:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18602 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:17:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18603 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:17:44 [wysh.selenium.util.TestngRetry] - [ main:28646 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:17:44 [wysh.selenium.util.TestngRetry] - [ main:28646 ] - [ INFO ] 重试第：2次！
+2022-04-17 03:17:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:28648 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:17:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:28755 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:17:44 [wysh.selenium.base.SelectDriver] - [ main:28759 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:17:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32271 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:17:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32274 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:17:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32277 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:17:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32278 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:17:48 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32280 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:17:58 [wysh.selenium.util.TestngRetry] - [ main:42585 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:17:58 [wysh.selenium.base.DriverBase] - [ main:42592 ] - [ INFO ] 开始截图
+2022-04-17 03:17:58 [wysh.selenium.base.DriverBase] - [ main:42816 ] - [ INFO ] 截图完成
+2022-04-17 03:17:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:42817 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:17:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:42878 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:17:59 [wysh.selenium.base.SelectDriver] - [ main:42882 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:18:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:46331 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 03:18:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:46331 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 03:18:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:46332 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 03:18:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:46332 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 03:18:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:46333 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 03:18:12 [wysh.selenium.util.TestngRetry] - [ main:56379 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:18:12 [wysh.selenium.base.DriverBase] - [ main:56382 ] - [ INFO ] 开始截图
+2022-04-17 03:18:12 [wysh.selenium.base.DriverBase] - [ main:56538 ] - [ INFO ] 截图完成
+2022-04-17 03:18:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56539 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:18:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56641 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:18:12 [wysh.selenium.base.SelectDriver] - [ main:56647 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:18:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60378 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 03:18:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60378 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 03:18:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60378 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 03:18:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60378 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 03:18:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60379 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 03:18:26 [wysh.selenium.util.TestngRetry] - [ main:70432 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:18:26 [wysh.selenium.base.DriverBase] - [ main:70435 ] - [ INFO ] 开始截图
+2022-04-17 03:18:26 [wysh.selenium.base.DriverBase] - [ main:70552 ] - [ INFO ] 截图完成
+2022-04-17 03:18:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70553 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:18:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70645 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:18:26 [wysh.selenium.base.SelectDriver] - [ main:70650 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:18:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74164 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 03:18:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74164 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 03:18:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74164 ] - [ INFO ] 登录密码是  :
+2022-04-17 03:18:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74164 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 03:18:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74165 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 03:18:40 [wysh.selenium.util.TestngRetry] - [ main:84200 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:18:40 [wysh.selenium.base.DriverBase] - [ main:84205 ] - [ INFO ] 开始截图
+2022-04-17 03:18:40 [wysh.selenium.base.DriverBase] - [ main:84329 ] - [ INFO ] 截图完成
+2022-04-17 03:18:40 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:84330 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:18:40 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:84447 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:18:40 [wysh.selenium.base.SelectDriver] - [ main:84451 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:18:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87929 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 03:18:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87929 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 03:18:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87929 ] - [ INFO ] 登录密码是  :
+2022-04-17 03:18:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87930 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 03:18:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87930 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 03:18:56 [wysh.selenium.util.TestngRetry] - [ main:99958 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:18:56 [wysh.selenium.base.DriverBase] - [ main:99961 ] - [ INFO ] 开始截图
+2022-04-17 03:19:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:111982 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:26:43 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:26:43 [wysh.selenium.base.SelectDriver] - [ main:12 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:26:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:3999 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:26:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4001 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:26:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4002 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:26:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4003 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:26:47 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4004 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:26:57 [wysh.selenium.util.TestngRetry] - [ main:14101 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:26:57 [wysh.selenium.util.TestngRetry] - [ main:14102 ] - [ INFO ] 重试第：1次！
+2022-04-17 03:26:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14105 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:26:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14245 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:26:57 [wysh.selenium.base.SelectDriver] - [ main:14251 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:27:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17740 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:27:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17741 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:27:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17741 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:27:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17742 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:27:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:17745 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:27:11 [wysh.selenium.util.TestngRetry] - [ main:27809 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:27:11 [wysh.selenium.util.TestngRetry] - [ main:27810 ] - [ INFO ] 重试第：2次！
+2022-04-17 03:27:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27811 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:27:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27976 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:27:11 [wysh.selenium.base.SelectDriver] - [ main:27980 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:27:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31416 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:27:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31418 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:27:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31418 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:27:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31420 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:27:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:31421 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:27:24 [wysh.selenium.util.TestngRetry] - [ main:41494 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:27:24 [wysh.selenium.base.DriverBase] - [ main:41499 ] - [ INFO ] 开始截图
+2022-04-17 03:27:24 [wysh.selenium.base.DriverBase] - [ main:41634 ] - [ INFO ] 截图完成
+2022-04-17 03:27:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41634 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:27:25 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41731 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:27:25 [wysh.selenium.base.SelectDriver] - [ main:41743 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:27:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45697 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 03:27:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45702 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 03:27:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45703 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 03:27:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45705 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 03:27:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45706 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 03:27:39 [wysh.selenium.util.TestngRetry] - [ main:55778 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:27:39 [wysh.selenium.base.DriverBase] - [ main:55781 ] - [ INFO ] 开始截图
+2022-04-17 03:27:39 [wysh.selenium.base.DriverBase] - [ main:55917 ] - [ INFO ] 截图完成
+2022-04-17 03:27:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55918 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:27:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56013 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:27:39 [wysh.selenium.base.SelectDriver] - [ main:56019 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:27:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59346 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 03:27:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59346 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 03:27:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59346 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 03:27:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59347 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 03:27:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59347 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 03:27:55 [wysh.selenium.util.TestngRetry] - [ main:72217 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:27:55 [wysh.selenium.base.DriverBase] - [ main:72221 ] - [ INFO ] 开始截图
+2022-04-17 03:28:07 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:84351 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:42:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:42:06 [wysh.selenium.base.SelectDriver] - [ main:12 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:42:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4795 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:42:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4796 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:42:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4797 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:42:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4798 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:42:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4798 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:42:21 [wysh.selenium.util.TestngRetry] - [ main:14879 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:42:21 [wysh.selenium.util.TestngRetry] - [ main:14880 ] - [ INFO ] 重试第：1次！
+2022-04-17 03:42:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14883 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:42:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:14991 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:42:21 [wysh.selenium.base.SelectDriver] - [ main:14998 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:42:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18406 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:42:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18407 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:42:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18407 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:42:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18408 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:42:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18411 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:42:26 [wysh.selenium.util.TestngRetry] - [ main:19481 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:42:26 [wysh.selenium.util.TestngRetry] - [ main:19481 ] - [ INFO ] 重试第：2次！
+2022-04-17 03:42:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:19482 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:43:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:43:35 [wysh.selenium.base.SelectDriver] - [ main:12 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:43:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4576 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:43:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4577 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:43:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4577 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:43:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4578 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:43:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:4578 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:43:39 [wysh.selenium.business.LoginPro] - [ main:4764 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 03:43:42 [wysh.selenium.business.HomePagePro] - [ main:7272 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 03:43:53 [wysh.selenium.util.TestngRetry] - [ main:18408 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:43:53 [wysh.selenium.util.TestngRetry] - [ main:18409 ] - [ INFO ] 重试第：1次！
+2022-04-17 03:43:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18417 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:43:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18595 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:43:53 [wysh.selenium.base.SelectDriver] - [ main:18600 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:43:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22496 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:43:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22496 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:43:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22498 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:43:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22498 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:43:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:22498 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:43:57 [wysh.selenium.business.LoginPro] - [ main:22540 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 03:43:59 [wysh.selenium.business.HomePagePro] - [ main:24916 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 03:44:11 [wysh.selenium.util.TestngRetry] - [ main:36060 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:44:11 [wysh.selenium.util.TestngRetry] - [ main:36060 ] - [ INFO ] 重试第：2次！
+2022-04-17 03:44:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:36061 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 03:44:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:36178 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 03:44:11 [wysh.selenium.base.SelectDriver] - [ main:36184 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 03:44:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:39865 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 03:44:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:39865 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 03:44:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:39865 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 03:44:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:39865 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 03:44:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:39866 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 03:44:14 [wysh.selenium.business.LoginPro] - [ main:39902 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 03:44:17 [wysh.selenium.business.HomePagePro] - [ main:42268 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 03:44:30 [wysh.selenium.util.TestngRetry] - [ main:55310 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 03:44:30 [wysh.selenium.base.DriverBase] - [ main:55317 ] - [ INFO ] 开始截图
+2022-04-17 03:44:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:67349 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 08:12:31 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 08:12:31 [wysh.selenium.base.SelectDriver] - [ main:23 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 08:12:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:11154 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 08:12:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:11154 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 08:12:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:11154 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 08:12:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:11155 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 08:12:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:11155 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 08:12:43 [wysh.selenium.business.LoginPro] - [ main:11869 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 08:12:46 [wysh.selenium.business.HomePagePro] - [ main:14269 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 08:12:59 [wysh.selenium.util.TestngRetry] - [ main:27673 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 08:12:59 [wysh.selenium.util.TestngRetry] - [ main:27673 ] - [ INFO ] 重试第：1次！
+2022-04-17 08:12:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27678 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 08:12:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27834 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 08:12:59 [wysh.selenium.base.SelectDriver] - [ main:27838 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 08:13:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32160 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 08:13:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32165 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 08:13:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32168 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 08:13:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32170 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 08:13:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32171 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 08:13:04 [wysh.selenium.business.LoginPro] - [ main:32361 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 08:13:06 [wysh.selenium.business.HomePagePro] - [ main:34828 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 08:13:17 [wysh.selenium.util.TestngRetry] - [ main:45622 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 08:13:17 [wysh.selenium.util.TestngRetry] - [ main:45622 ] - [ INFO ] 重试第：2次！
+2022-04-17 08:13:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:45623 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:09:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:09:22 [wysh.selenium.base.SelectDriver] - [ main:70 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:09:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:6759 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 11:09:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:6759 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 11:09:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:6760 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 11:09:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:6760 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 11:09:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:6760 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 11:09:29 [wysh.selenium.business.LoginPro] - [ main:6953 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:09:31 [wysh.selenium.business.HomePagePro] - [ main:9458 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:09:43 [wysh.selenium.util.TestngRetry] - [ main:20713 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:09:43 [wysh.selenium.util.TestngRetry] - [ main:20714 ] - [ INFO ] 重试第：1次！
+2022-04-17 11:09:43 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:20728 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:09:43 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:20836 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:09:43 [wysh.selenium.base.SelectDriver] - [ main:20845 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:09:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24416 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 11:09:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24416 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 11:09:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24417 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 11:09:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24418 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 11:09:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24418 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 11:09:46 [wysh.selenium.business.LoginPro] - [ main:24466 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:09:49 [wysh.selenium.business.HomePagePro] - [ main:26865 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:10:00 [wysh.selenium.util.TestngRetry] - [ main:38046 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:10:00 [wysh.selenium.util.TestngRetry] - [ main:38047 ] - [ INFO ] 重试第：2次！
+2022-04-17 11:10:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:38047 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:10:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:38160 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:10:00 [wysh.selenium.base.SelectDriver] - [ main:38169 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:10:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41753 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 11:10:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41753 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 11:10:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41753 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 11:10:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41753 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 11:10:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41753 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 11:10:04 [wysh.selenium.business.LoginPro] - [ main:41793 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:10:06 [wysh.selenium.business.HomePagePro] - [ main:44192 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:10:17 [wysh.selenium.util.TestngRetry] - [ main:55380 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:10:17 [wysh.selenium.base.DriverBase] - [ main:55387 ] - [ INFO ] 开始截图
+2022-04-17 11:10:19 [wysh.selenium.base.DriverBase] - [ main:56786 ] - [ INFO ] 截图完成
+2022-04-17 11:10:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56787 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:10:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56883 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:10:19 [wysh.selenium.base.SelectDriver] - [ main:56888 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:10:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60400 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 11:10:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60400 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 11:10:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60401 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 11:10:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60401 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 11:10:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60404 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 11:10:22 [wysh.selenium.business.LoginPro] - [ main:60445 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:10:25 [wysh.selenium.business.HomePagePro] - [ main:62838 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:10:26 [wysh.selenium.util.TestngRetry] - [ main:63846 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:10:26 [wysh.selenium.base.DriverBase] - [ main:63850 ] - [ INFO ] 开始截图
+2022-04-17 11:10:26 [wysh.selenium.base.DriverBase] - [ main:64254 ] - [ INFO ] 截图完成
+2022-04-17 11:10:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:64255 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:10:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:64361 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:10:26 [wysh.selenium.base.SelectDriver] - [ main:64364 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:10:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:67938 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 11:10:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:67938 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 11:10:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:67938 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 11:10:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:67938 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 11:10:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:67938 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 11:10:30 [wysh.selenium.business.LoginPro] - [ main:67975 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:10:32 [wysh.selenium.business.HomePagePro] - [ main:70352 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:10:33 [wysh.selenium.util.TestngRetry] - [ main:71362 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:10:33 [wysh.selenium.base.DriverBase] - [ main:71364 ] - [ INFO ] 开始截图
+2022-04-17 11:10:34 [wysh.selenium.base.DriverBase] - [ main:71775 ] - [ INFO ] 截图完成
+2022-04-17 11:10:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:71775 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:10:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:71847 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:10:34 [wysh.selenium.base.SelectDriver] - [ main:71850 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:10:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:75393 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 11:10:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:75393 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 11:10:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:75393 ] - [ INFO ] 登录密码是  :
+2022-04-17 11:10:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:75394 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 11:10:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:75394 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 11:10:37 [wysh.selenium.business.LoginPro] - [ main:75430 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:10:40 [wysh.selenium.business.HomePagePro] - [ main:78061 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:10:41 [wysh.selenium.util.TestngRetry] - [ main:79068 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:10:41 [wysh.selenium.base.DriverBase] - [ main:79070 ] - [ INFO ] 开始截图
+2022-04-17 11:10:41 [wysh.selenium.base.DriverBase] - [ main:79494 ] - [ INFO ] 截图完成
+2022-04-17 11:10:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:79494 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:10:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:79641 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:10:42 [wysh.selenium.base.SelectDriver] - [ main:79644 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:10:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:83676 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 11:10:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:83676 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 11:10:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:83677 ] - [ INFO ] 登录密码是  :
+2022-04-17 11:10:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:83677 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 11:10:46 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:83677 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 11:10:46 [wysh.selenium.business.LoginPro] - [ main:83731 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:10:48 [wysh.selenium.business.HomePagePro] - [ main:86095 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:10:49 [wysh.selenium.util.TestngRetry] - [ main:87103 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:10:49 [wysh.selenium.base.DriverBase] - [ main:87107 ] - [ INFO ] 开始截图
+2022-04-17 11:10:49 [wysh.selenium.base.DriverBase] - [ main:87528 ] - [ INFO ] 截图完成
+2022-04-17 11:10:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87529 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:10:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87659 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:10:50 [wysh.selenium.base.SelectDriver] - [ main:87663 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:10:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91499 ] - [ INFO ] 读取的 Excel数据信息为：{password=Dd1234, bugdetail=这是user4提交的bug详情_2019031402_wysh, bugtitle=这是由user4提交的bug_2019031402_wysh, username=user4}
+2022-04-17 11:10:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91499 ] - [ INFO ] 登录用户名是 :user4
+2022-04-17 11:10:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91500 ] - [ INFO ] 登录密码是  :Dd1234
+2022-04-17 11:10:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91500 ] - [ INFO ] Bug的标题是 :这是由user4提交的bug_2019031402_wysh
+2022-04-17 11:10:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91500 ] - [ INFO ] Bug的详细信息是 :这是user4提交的bug详情_2019031402_wysh
+2022-04-17 11:10:54 [wysh.selenium.business.LoginPro] - [ main:91555 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:10:56 [wysh.selenium.business.HomePagePro] - [ main:93949 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:10:57 [wysh.selenium.util.TestngRetry] - [ main:94959 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:10:57 [wysh.selenium.base.DriverBase] - [ main:94961 ] - [ INFO ] 开始截图
+2022-04-17 11:10:57 [wysh.selenium.base.DriverBase] - [ main:95451 ] - [ INFO ] 截图完成
+2022-04-17 11:10:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:95452 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 11:10:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:95580 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 11:10:58 [wysh.selenium.base.SelectDriver] - [ main:95583 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 11:11:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99318 ] - [ INFO ] 读取的 Excel数据信息为：{password=Dd1234, bugdetail=这是user4提交的bug详情_2019031402_wysh, bugtitle=这是由user4提交的bug_2019031402_wysh, username=user4}
+2022-04-17 11:11:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99318 ] - [ INFO ] 登录用户名是 :user4
+2022-04-17 11:11:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99318 ] - [ INFO ] 登录密码是  :Dd1234
+2022-04-17 11:11:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99318 ] - [ INFO ] Bug的标题是 :这是由user4提交的bug_2019031402_wysh
+2022-04-17 11:11:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99319 ] - [ INFO ] Bug的详细信息是 :这是user4提交的bug详情_2019031402_wysh
+2022-04-17 11:11:01 [wysh.selenium.business.LoginPro] - [ main:99365 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 11:11:04 [wysh.selenium.business.HomePagePro] - [ main:101748 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 11:11:17 [wysh.selenium.util.TestngRetry] - [ main:114771 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 11:11:17 [wysh.selenium.base.DriverBase] - [ main:114774 ] - [ INFO ] 开始截图
+2022-04-17 11:11:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:126800 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:33:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:33:19 [wysh.selenium.base.SelectDriver] - [ main:14 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:33:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5184 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 12:33:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5184 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 12:33:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5185 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 12:33:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5185 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 12:33:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:5185 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 12:33:24 [wysh.selenium.business.LoginPro] - [ main:5250 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:33:26 [wysh.selenium.business.HomePagePro] - [ main:7731 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:33:38 [wysh.selenium.util.TestngRetry] - [ main:18923 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:33:38 [wysh.selenium.util.TestngRetry] - [ main:18923 ] - [ INFO ] 重试第：1次！
+2022-04-17 12:33:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18927 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:33:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:19088 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:33:38 [wysh.selenium.base.SelectDriver] - [ main:19113 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:33:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:23322 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 12:33:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:23322 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 12:33:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:23324 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 12:33:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:23324 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 12:33:42 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:23324 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 12:33:42 [wysh.selenium.business.LoginPro] - [ main:23369 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:33:44 [wysh.selenium.business.HomePagePro] - [ main:25837 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:33:56 [wysh.selenium.util.TestngRetry] - [ main:37015 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:33:56 [wysh.selenium.util.TestngRetry] - [ main:37015 ] - [ INFO ] 重试第：2次！
+2022-04-17 12:33:56 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:37016 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:33:56 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:37166 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:33:56 [wysh.selenium.base.SelectDriver] - [ main:37169 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:34:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41095 ] - [ INFO ] 读取的 Excel数据信息为：{password=Aa1234, bugdetail=这是admin提交的bug详情_2019031402_wysh, bugtitle=这是由admin提交的bug_2019031402_wysh, username=admin}
+2022-04-17 12:34:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41095 ] - [ INFO ] 登录用户名是 :admin
+2022-04-17 12:34:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41096 ] - [ INFO ] 登录密码是  :Aa1234
+2022-04-17 12:34:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41096 ] - [ INFO ] Bug的标题是 :这是由admin提交的bug_2019031402_wysh
+2022-04-17 12:34:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:41097 ] - [ INFO ] Bug的详细信息是 :这是admin提交的bug详情_2019031402_wysh
+2022-04-17 12:34:00 [wysh.selenium.business.LoginPro] - [ main:41140 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:34:02 [wysh.selenium.business.HomePagePro] - [ main:43591 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:34:13 [wysh.selenium.util.TestngRetry] - [ main:54753 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:34:13 [wysh.selenium.base.DriverBase] - [ main:54757 ] - [ INFO ] 开始截图
+2022-04-17 12:34:14 [wysh.selenium.base.DriverBase] - [ main:55030 ] - [ INFO ] 截图完成
+2022-04-17 12:34:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55031 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:34:14 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55182 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:34:14 [wysh.selenium.base.SelectDriver] - [ main:55186 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:34:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58974 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 12:34:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58974 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 12:34:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58974 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 12:34:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58974 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 12:34:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58975 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 12:34:18 [wysh.selenium.business.LoginPro] - [ main:59020 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:34:20 [wysh.selenium.business.HomePagePro] - [ main:61449 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:34:21 [wysh.selenium.util.TestngRetry] - [ main:62461 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:34:21 [wysh.selenium.base.DriverBase] - [ main:62465 ] - [ INFO ] 开始截图
+2022-04-17 12:34:22 [wysh.selenium.base.DriverBase] - [ main:62889 ] - [ INFO ] 截图完成
+2022-04-17 12:34:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:62890 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:34:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:63102 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:34:22 [wysh.selenium.base.SelectDriver] - [ main:63108 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:34:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66906 ] - [ INFO ] 读取的 Excel数据信息为：{password=Bb12345, bugdetail=这是admin1提交的bug详情_2019031402_wysh, bugtitle=这是由admin1提交的bug_2019031402_wysh, username=admin1}
+2022-04-17 12:34:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66906 ] - [ INFO ] 登录用户名是 :admin1
+2022-04-17 12:34:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66906 ] - [ INFO ] 登录密码是  :Bb12345
+2022-04-17 12:34:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66906 ] - [ INFO ] Bug的标题是 :这是由admin1提交的bug_2019031402_wysh
+2022-04-17 12:34:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66906 ] - [ INFO ] Bug的详细信息是 :这是admin1提交的bug详情_2019031402_wysh
+2022-04-17 12:34:26 [wysh.selenium.business.LoginPro] - [ main:66948 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:34:28 [wysh.selenium.business.HomePagePro] - [ main:69381 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:34:29 [wysh.selenium.util.TestngRetry] - [ main:70392 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:34:29 [wysh.selenium.base.DriverBase] - [ main:70395 ] - [ INFO ] 开始截图
+2022-04-17 12:34:29 [wysh.selenium.base.DriverBase] - [ main:70799 ] - [ INFO ] 截图完成
+2022-04-17 12:34:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70800 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:34:30 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70919 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:34:30 [wysh.selenium.base.SelectDriver] - [ main:70924 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:34:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74935 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 12:34:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74935 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 12:34:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74936 ] - [ INFO ] 登录密码是  :
+2022-04-17 12:34:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74936 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 12:34:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74936 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 12:34:34 [wysh.selenium.business.LoginPro] - [ main:74982 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:34:36 [wysh.selenium.business.HomePagePro] - [ main:77371 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:34:37 [wysh.selenium.util.TestngRetry] - [ main:78378 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:34:37 [wysh.selenium.base.DriverBase] - [ main:78383 ] - [ INFO ] 开始截图
+2022-04-17 12:34:37 [wysh.selenium.base.DriverBase] - [ main:78809 ] - [ INFO ] 截图完成
+2022-04-17 12:34:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:78810 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:34:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:79001 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:34:38 [wysh.selenium.base.SelectDriver] - [ main:79005 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:34:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82729 ] - [ INFO ] 读取的 Excel数据信息为：{password=, bugdetail=这是user3提交的bug详情_2019031402_wysh, bugtitle=这是由user3提交的bug_2019031402_wysh, username=user3}
+2022-04-17 12:34:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82729 ] - [ INFO ] 登录用户名是 :user3
+2022-04-17 12:34:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82730 ] - [ INFO ] 登录密码是  :
+2022-04-17 12:34:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82730 ] - [ INFO ] Bug的标题是 :这是由user3提交的bug_2019031402_wysh
+2022-04-17 12:34:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82730 ] - [ INFO ] Bug的详细信息是 :这是user3提交的bug详情_2019031402_wysh
+2022-04-17 12:34:41 [wysh.selenium.business.LoginPro] - [ main:82773 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:34:44 [wysh.selenium.business.HomePagePro] - [ main:85164 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:34:45 [wysh.selenium.util.TestngRetry] - [ main:86172 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:34:45 [wysh.selenium.base.DriverBase] - [ main:86175 ] - [ INFO ] 开始截图
+2022-04-17 12:34:45 [wysh.selenium.base.DriverBase] - [ main:86622 ] - [ INFO ] 截图完成
+2022-04-17 12:34:45 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86624 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:34:45 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:86747 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:34:45 [wysh.selenium.base.SelectDriver] - [ main:86749 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:34:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90551 ] - [ INFO ] 读取的 Excel数据信息为：{password=Dd1234, bugdetail=这是user4提交的bug详情_2019031402_wysh, bugtitle=这是由user4提交的bug_2019031402_wysh, username=user4}
+2022-04-17 12:34:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90551 ] - [ INFO ] 登录用户名是 :user4
+2022-04-17 12:34:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90552 ] - [ INFO ] 登录密码是  :Dd1234
+2022-04-17 12:34:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90552 ] - [ INFO ] Bug的标题是 :这是由user4提交的bug_2019031402_wysh
+2022-04-17 12:34:49 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:90552 ] - [ INFO ] Bug的详细信息是 :这是user4提交的bug详情_2019031402_wysh
+2022-04-17 12:34:49 [wysh.selenium.business.LoginPro] - [ main:90590 ] - [ INFO ] 开始登录操作！！！
+2022-04-17 12:34:52 [wysh.selenium.business.HomePagePro] - [ main:93043 ] - [ INFO ] 提交bug开始了!!!!
+2022-04-17 12:34:53 [wysh.selenium.util.TestngRetry] - [ main:94052 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:34:53 [wysh.selenium.base.DriverBase] - [ main:94054 ] - [ INFO ] 开始截图
+2022-04-17 12:34:53 [wysh.selenium.base.DriverBase] - [ main:94489 ] - [ INFO ] 截图完成
+2022-04-17 12:34:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:94489 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
+2022-04-17 12:34:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:94658 ] - [ INFO ] 初始化浏览器，开始一次新的 test ！！！
+2022-04-17 12:34:53 [wysh.selenium.base.SelectDriver] - [ main:94663 ] - [ INFO ] start browser ，and browser is chrome !!!
+2022-04-17 12:34:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99070 ] - [ INFO ] 读取的 Excel数据信息为：{password=Dd1234, bugdetail=这是user4提交的bug详情_2019031402_wysh, bugtitle=这是由user4提交的bug_2019031402_wysh, username=user4}
+2022-04-17 12:34:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99070 ] - [ INFO ] 登录用户名是 :user4
+2022-04-17 12:34:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99070 ] - [ INFO ] 登录密码是  :Dd1234
+2022-04-17 12:34:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99071 ] - [ INFO ] Bug的标题是 :这是由user4提交的bug_2019031402_wysh
+2022-04-17 12:34:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:99071 ] - [ INFO ] Bug的详细信息是 :这是user4提交的bug详情_2019031402_wysh
+2022-04-17 12:35:10 [wysh.selenium.util.TestngRetry] - [ main:111099 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@5dd6264] output={null}]
+2022-04-17 12:35:10 [wysh.selenium.base.DriverBase] - [ main:111101 ] - [ INFO ] 开始截图
+2022-04-17 12:35:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:123127 ] - [ INFO ] 关闭浏览器，本次 test 结束 ！！！
