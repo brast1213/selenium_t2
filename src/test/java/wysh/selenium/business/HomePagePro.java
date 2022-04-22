@@ -65,10 +65,6 @@ public class HomePagePro extends LogsInit{
 		afterCount = hph.getBugByMeCount2();
 		log.info("bug after count is :"+afterCount);
 		hph.sleep(2000);
-		hph.clickNameInfo();
-		hph.sleep(2000);
-		hph.clickLogout();
-		hph.sleep(2000);
 	}
 }
 }
