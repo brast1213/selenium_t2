@@ -8,7 +8,7 @@ import org.testng.Reporter;
  * 用来对测试执行失败重试的类
  * */
 public class TestngRetry extends LogsInit  implements IRetryAnalyzer{
-	private static int maxRetryCount = 2;
+	private static int maxRetryCount = 1;
     private int retryCount = 1;
     public boolean retry(ITestResult result) {
 //    	System.out.println(result);

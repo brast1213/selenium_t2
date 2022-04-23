@@ -62,7 +62,6 @@ public class TestLoginAndCommitBug extends CaseBase{
     @Test(dataProvider="user_from_excel")
     public void testLogin(HashMap<String, String> data){
 //	    String url = "http://127.0.0.1:81/zentao/user-login.html";
-//	    String url = "http://wysh.site";
 //	    driver.get(url);
 	    try {
 			Thread.sleep(2000);
@@ -99,17 +98,7 @@ public class TestLoginAndCommitBug extends CaseBase{
 		assertEquals(aftercount1, beforecount1+1);
     }
     
-//    @Test(dependsOnMethods={"testLogin"})
-//    public void testBugSubmit() {
-//    	log.info("提交bug开始了!!!!");
-//    	homepagepro.submitBug();
-//    }
-    
-//	@Test(dependsOnMethods=("testlogin"))
-//	public void homepagetest() {
-//		homepagepro.AssertLogin(username)
-//		
-//	}
+
   @AfterMethod
   public void close(){
 	  log.info("关闭浏览器，本次 test 结束 ！！！");
